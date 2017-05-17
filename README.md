@@ -8,3 +8,4 @@ https://www.twitch.tv/videos/61902341
 
 Powerpoint of the project is also available.
 
+RealTime2 and Detection2 are the two primary files in which we used for the app. I do not know if they are the right ones as the main source code and demo was done under my friends laptop, however, it should be about right.
